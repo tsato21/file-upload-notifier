@@ -17,26 +17,26 @@ This project involves a Google Apps Script that monitors a specified Google Driv
 
 ## Setup
 
-1. **Open Your Google Sheet**: Access [Sample Google Drive Folder](https://drive.google.com/drive/folders/16WEoOo_bTAKJSM6HAPCdPQj64cfeZCvt) (link opens in a new tab).
+1. **Open Your Google Sheet**: Access <a href="https://drive.google.com/drive/folders/16WEoOo_bTAKJSM6HAPCdPQj64cfeZCvt" target="_blank" rel="noopener noreferrer">Sample Google Drive Folder</a>.
 
 2. **Copy the Sample Google Apps Script**: Copy the sample script, which is automatically stored in your `My Drive`.
 
-![Image of Copy Sample](assets/images/copy-sample-file.png){: .resize-image}
+   ![Image of Copy Sample](assets/images/copy-sample-file.png){: .resize-image}
 
 3. Set the constant variables (folder url/ email address/ interval) in `variables.gs`.
 
-![Image of Set Constant Variables](assets/images/set-constant-variables.png){: .resize-image}
+   ![Image of Set Constant Variables](assets/images/set-constant-variables.png){: .resize-image}
 
 4. **Set Trigger**: Set the trigger for the script to run periodically.
   - You can set the trigger in your preferred way.
 
-![Image of Set Triggers](assets/images/set-trigger.png){: .resize-image}
+    ![Image of Set Triggers](assets/images/set-trigger.png){: .resize-image}
 
 5. **Upload a File to the Folder**: Upload a file to the folder to test the script.
 
-5. **Run the Script**: Run the script to test the notification email. If you receive the email, the script is working correctly.
+6. **Run the Script**: Run the script to test the notification email. If you receive the email, the script is working correctly.
 
-![Image of Email Notification](assets/images/email-notification.png){: .resize-image}
+   ![Image of Email Notification](assets/images/email-notification.png){: .resize-image}
 
 ## Usage
 
