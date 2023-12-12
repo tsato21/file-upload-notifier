@@ -43,7 +43,7 @@ This project involves a Google Apps Script that monitors a specified Google Driv
 1. **Monitoring File Uploads**: The script automatically checks for new file uploads in the designated Google Drive folder.
 2. **Receiving Notifications**: If a new file is uploaded within the specified time interval, you'll receive an email notification with details about the file and a link to the folder.
 
- - You can find logics for new file existence and the notification from [HERE](https://docs.google.com/presentation/d/1eaOfzJpEgpluX5kBIWKeiQHy_zm3yx5ktHjfPBqo90s/edit#slide=id.p).
+ - You can find logics for new file existence and the notification from <a href="https://docs.google.com/presentation/d/1eaOfzJpEgpluX5kBIWKeiQHy_zm3yx5ktHjfPBqo90s/edit#slide=id.p" target="_blank" rel="noopener noreferrer">HERE</a>.
 
 ## Others
 
