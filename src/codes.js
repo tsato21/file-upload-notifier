@@ -1,3 +1,7 @@
+const FOLDER_URL = "https://drive.google.com/drive/folders/1hDkf17mY0jaKqlWOcNdBzpzBz1vHWj9-";
+const EMAIL_ADDRESS = 'demo@demo.com'
+const TRIGGER_INTERVAL_TIME = 24  // hours
+
 function notifyUploadedFile(folderUrl) {
   // Extract the Folder ID from the URL
   const FOLDER_ID = extractFolderIdFromUrl(FOLDER_URL);

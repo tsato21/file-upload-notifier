@@ -1,17 +1,13 @@
 {
-  "name": "gas-template",
+  "name": "file-upload-notifier",
   "version": "1.0.0",
-  "description": "A personal template repository for creating a local dev environment using Google Apps Script, clasp, and github page",
-  "main": "src/sample.js",
-  "directories": {
-    "test": "tests"
-  },
+  "description": "Tracks new file uploads in a specific Google Drive folder. If the time since the last upload is within a set interval, it sends a notification email, ensuring efficient file management.",
   "scripts": {
-    "test": "jest"
+    "format": "prettier --write src/**/*"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ttsukagoshi/gas-template.git"
+    "url": "git+https://github.com/tsato21/file-upload-notifier"
   },
   "keywords": [
     "google-apps-script",
@@ -19,12 +15,12 @@
     "clasp",
     "github-page"
   ],
-  "author": "tigertiger",
+  "author": "tsato21",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/ttsukagoshi/gas-template/issues"
+    "url": "https://github.com/tsato21/file-upload-notifier/issues"
   },
-  "homepage": "https://github.com/ttsukagoshi/gas-template#readme",
+  "homepage": "https://tsato21.github.io/gas-tools/each-tool/file-upload-notifier",
   "devDependencies": {
     "@google/clasp": "^2.4.2",
     "@types/google-apps-script": "^1.0.64",
