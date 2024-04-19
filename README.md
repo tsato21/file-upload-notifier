@@ -1,2 +1,2 @@
 # file-upload-notifier
-This repository showcases a Google Apps Script tool for tracking new file uploads in a specific Google Drive folder. If the time since the last upload is within a set interval, it sends a notification email, ensuring efficient file management. You can find details at [File Upload Notifier](https://tsato21.github.io/gas-tools/each-tool/file-upload-notifier).
+This repository showcases a Google Apps Script tool for tracking new file uploads in a designated Google Drive folder. If the time since the last upload is within a set interval, it sends a notification email, ensuring efficient file management. You can find details at [File Upload Notifier](https://tsato21.github.io/gas-tools/each-tool/file-upload-notifier).
